@@ -31,7 +31,7 @@ h2 {
 .topper {
   height: 60px;
   width: 450px;
-  margin: 37px 0px
+  margin: 37px
 }
 
 .capital {
@@ -86,4 +86,8 @@ div {
 hr {
     margin: 10px 30px;
     border: 2px solid #222;
+}
+
+* {
+  border: 1px solid red
 }
